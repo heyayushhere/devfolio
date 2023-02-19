@@ -1,0 +1,7 @@
+.sec .container .credits{
+    width: 500px;
+    height: 700px;
+    align-items: center;
+    border: 2px;
+    box-shadow: rgba(24, 24, 24, 0.455);
+}
